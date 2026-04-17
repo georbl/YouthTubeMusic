@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouthTubeMusic</string>
+    <string name="unable_to_load_playlist">Abspielliste konnte nicht geladen werden</string>
+</resources>
