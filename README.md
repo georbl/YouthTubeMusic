@@ -1,6 +1,6 @@
 # YouthTubeMusic
 
-[![Build Status](https://github.com/georbl/YouthTubeMusic/actions/workflows/android-ci.yml/badge.svg)](https://github.com/georbl/YouthTubeMusic/actions/workflows/android-ci.yml)
+[![Build Status](https://github.com/georbl/YouthTubeMusic/actions/workflows/android-ci.yml/badge.svg)](https://github.com/georbl/YouthTubeMusic/actions/workflows/ci.yml)
 
 YouthTube Music is a simple Android music player for kids.
 It plays music from a single curated YouTube playlist.
