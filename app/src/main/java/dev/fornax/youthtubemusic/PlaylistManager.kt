@@ -115,8 +115,8 @@ class PlaylistManager : IPlaylistManager {
         return try {
             val streamExtractor = youtube.getStreamExtractor(item.url)
             streamExtractor.fetchPage()
-            val audioStreams = streamExtractor.audioStreams
-
+            //val audioStreams = streamExtractor.audioStreams
+            val audioStreams = streamExtractor.videoStreams
             if (audioStreams.isNotEmpty()) {
                 MediaItem.Builder()
                     .setUri(audioStreams[0].content)
