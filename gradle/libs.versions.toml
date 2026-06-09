@@ -1,5 +1,5 @@
 [versions]
-ytm-versionName = "1.0.0"
+ytm-versionName = "1.0.1"
 ytm-versionCode = "1"
 
 agp = "9.2.1"
